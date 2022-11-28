@@ -62,6 +62,7 @@ dependencies:
   - openjpeg=2.5.0
   - openssl=3.0.7
   - packaging=21.3
+  - pandas
   - pgplot=5.2.2
   - pillow=9.2.0
   - pip=22.3.1
