@@ -41,7 +41,7 @@ dependencies:
   - libedit=3.1.20191231
   - libev=4.33
   - libffi=3.4.2
-  - libgfortran=5.0.0
+  - libgfortran
   - libgfortran5=11.3.0
   - liblapack=3.9.0
   - libnghttp2=1.47.0
@@ -54,8 +54,8 @@ dependencies:
   - libxcb=1.13
   - libzlib=1.2.13
   - llvm-openmp=15.0.5
-  - matplotlib=3.6.2
-  - matplotlib-base=3.6.2
+  - matplotlib
+  - matplotlib-base
   - munkres=1.1.4
   - ncurses=6.3
   - numpy=1.23.5
